@@ -24,7 +24,12 @@
 
 ## 5 Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 
-- cat texte.txt 
+echo 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :'
+echo '- "Bonjour est-ce que ce clavier fonctionne bien ?"'
+echo '- "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"'
+echo '- "Même des tildes ~ ?"'
+echo '- "Evidemment !"'
+
 
 
 ## 6 Quelle commande te permet de mettre en avant le processus gedit ?
