@@ -38,8 +38,16 @@
 
 ## Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
 
-|  Bash                 |          Powershell                   |
-|-----------------------------------------------------|
+| Commande Bash  | Commande PowerShell       | Description                                      |
+|----------------|---------------------------|--------------------------------------------------|
+| `cd`           | `Set-Location` (ou `cd`)   | Change de répertoire                             |
+| `cp`           | `Copy-Item`                | Copie un fichier ou un répertoire                |
+| `mkdir`        | `New-Item -ItemType Directory` | Crée un répertoire                              |
+| `ls`           | `Get-ChildItem` (ou `ls`)  | Liste les fichiers et répertoires                |
+
+
 ## Dans la trame ethernet, qu'est-ce que le payload ?
+- Le payload dans une trame Ethernet représente les données transmises entre les hôtes. Il est encapsulé avec des informations pour l'acheminement et la vérification, comme les adresses MAC et le CRC.
 
 ## Pourquoi les classes IP sont remplacées par le CIDR ?
+- Le CIDR remplace les classes IP en fournissant une gestion plus souple et optimale des adresses IP
