@@ -22,21 +22,21 @@
    - git merge test_valide        # Fusionner test_valide dans main
 
 
-## Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
+## 5 Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 
 - echo '' en respectant  les caractères spéciaux sinon plusieur echo ""
 
 
-##  Quelle commande te permet de mettre en avant le processus gedit ?
+## 6 Quelle commande te permet de mettre en avant le processus gedit ?
 
 - fg gedit
 
-## Quels matériels réseaux sont sur la couche 2 et la couche 3 du modèle OSI ? Donne leurs spécificités.
+## 7 Quels matériels réseaux sont sur la couche 2 et la couche 3 du modèle OSI ? Donne leurs spécificités.
 
 - Couche 2 : Liaison de données : **_transmet des données entre deux dispositifs directement connectés dans un réseau local via a un Switche / Bridges (pont) / Carte réseaux_**
 - Couche 3 : Réseau : **_gère la communication entre des dispositifs sur différents réseaux et s'assure que les paquets de données trouvent leur chemin via le routeur /les passerelles / pare-feu_**
 
-## Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
+## 8 Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
 
 | Commande Bash  | Commande PowerShell       | Description                                      |
 |----------------|---------------------------|--------------------------------------------------|
@@ -46,8 +46,8 @@
 | `ls`           | `Get-ChildItem` (ou `ls`)  | Liste les fichiers et répertoires                |
 
 
-## Dans la trame ethernet, qu'est-ce que le payload ?
+## 9 Dans la trame ethernet, qu'est-ce que le payload ?
 - Le payload dans une trame Ethernet représente les données transmises entre les hôtes. Il est encapsulé avec des informations pour l'acheminement et la vérification, comme les adresses MAC et le CRC.
 
-## Pourquoi les classes IP sont remplacées par le CIDR ?
+## 10 Pourquoi les classes IP sont remplacées par le CIDR ?
 - Le CIDR remplace les classes IP en fournissant une gestion plus souple et optimale des adresses IP
