@@ -24,7 +24,7 @@
 
 ## 5 Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 
-- echo '' en respectant  les caractères spéciaux sinon plusieur echo ""
+- cat 
 
 
 ## 6 Quelle commande te permet de mettre en avant le processus gedit ?
