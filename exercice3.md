@@ -25,10 +25,16 @@
 ## 5 Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 
 echo 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :'
+
 echo '- "Bonjour est-ce que ce clavier fonctionne bien ?"'
+
 echo '- "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"'
+
 echo '- "Même des tildes ~ ?"'
+
 echo '- "Evidemment !"'
+
+- Ou bien, si le fichier est en texte et qu'à l'intérieur du fichier il y a ce texte, alors on fait un cat pour afficher le contenu du fichier.
 
 
 
