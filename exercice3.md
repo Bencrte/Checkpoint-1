@@ -24,7 +24,7 @@
 
 ## 5 Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 
-- cat 
+- cat texte.txt 
 
 
 ## 6 Quelle commande te permet de mettre en avant le processus gedit ?
